@@ -24,7 +24,7 @@ const Projects = () => {
         "Deep learning engagement metrics"
       ],
       tags: ["Python", "Computer Vision", "Deep Learning"],
-      link: "https://github.com/saimayyazsheikh/EduSense",
+      link: "https://github.com/saimayyazsheikh/Edu-Sense",
       image: "/projects/edusense.png"
     },
     {
@@ -36,19 +36,19 @@ const Projects = () => {
         "Production analytics dashboard"
       ],
       tags: ["React Native", "Node.js", "Firebase"],
-      link: "https://github.com/saimayyazsheikh/DairyPro",
+      link: "https://github.com/saimayyazsheikh/Dairy-Pro---Mobile-App",
       image: "/projects/dairypro.png"
     },
     {
-      title: "SAIM Dairy Farm Management System",
+      title: "Ayyaz Dairy Farm Management System",
       date: "2026",
       description: "Engineered a livestock and operations tracking application for a family dairy farm, digitizing previously manual record-keeping.",
       points: [
         "Streamlined data-entry workflows for production and inventory",
         "Reduced administrative overhead through digitized records"
       ],
-      tags: ["React", "JavaScript", "Tailwind CSS", "MongoDB"],
-      link: "https://github.com/saimayyazsheikh/Ayyaz-Dairy-Farm",
+      tags: ["React", "JavaScript", "Tailwind CSS", "Firebase"],
+      link: "https://github.com/saimayyazsheikh/AyyazDairyFarm",
       image: "/projects/ayyazdairy.png"
     },
     {

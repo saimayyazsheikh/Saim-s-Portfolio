@@ -71,8 +71,7 @@ const Skills = () => {
     "Millennium Fellowship - Leadership program by UNAI & MCN",
     "AUCIS General Secretary",
     "TechConnect 2025 Participation Certificate",
-    "TechFest'25 Participation Certificate",
-    "Certificate of Appreciation"
+    "TechFest'25 Participation Certificate"
   ];
 
   return (
