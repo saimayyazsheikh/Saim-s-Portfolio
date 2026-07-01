@@ -38,7 +38,7 @@ const Hero = () => {
         <div>
           <span className="badge">
             <span className="pulse-dot"></span>
-            Open to SWE / Full-Stack / AI Automation roles · 2026
+            Open to SWE / Full-Stack / AI Automation roles
           </span>
           
           <h1 className="hero-title">
