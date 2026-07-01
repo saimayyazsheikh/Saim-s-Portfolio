@@ -16,8 +16,8 @@ function App() {
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme) {
       setTheme(savedTheme);
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
-      setTheme('light');
+    } else {
+      setTheme('dark');
     }
   }, []);
 
