@@ -8,6 +8,7 @@ import Skills from './sections/Skills';
 import Contact from './sections/Contact';
 import Footer from './components/Footer';
 import Particles from './components/Particles';
+import AIAssistant from './components/AIAssistant';
 
 function App() {
   const [theme, setTheme] = useState('dark');
@@ -49,6 +50,7 @@ function App() {
       </main>
       
       <Footer />
+      <AIAssistant />
     </div>
   );
 }
