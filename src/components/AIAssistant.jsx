@@ -103,7 +103,7 @@ const AIAssistant = () => {
       console.error("Error sending message to AI:", error);
       setMessages(prev => [...prev, { 
         role: 'assistant', 
-        content: "Sorry, I'm having trouble connecting right now. Please feel free to email Saim directly at saimisatwork@gmail.com." 
+        content: `Sorry, I'm having trouble connecting right now. (Error: ${error.message}) Please feel free to email Saim directly at saimisatwork@gmail.com.` 
       }]);
     } finally {
       setIsTyping(false);
